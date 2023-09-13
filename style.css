@@ -1,0 +1,33 @@
+body{
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+button{
+  background-color: #ad0c9a;
+  color: white;
+  height: 35px;
+  width: 70px;
+  border-radius: 7px;
+}
+button:hover{
+  background-color: #8f07fd;
+}
+main{
+  width: 45%;
+  height:400px;
+  background-color: rgba(0,0,0,0.5);
+  margin: auto;
+}
+.line{
+  background-image: url('img/string.jpg');
+  width: 3%;
+  height: 390px;
+  float: left;
+  background-size: 100% 100%;
+}
+.space{
+  background-image: url('img/wood.jpg');
+  width: 11.7%;
+  height: 390px;
+  float: left;
+  background-size: 100% 100%;
+}
